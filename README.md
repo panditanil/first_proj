@@ -1,4 +1,4 @@
-# first_proj
+# first_Project
 
 My first Project
 
